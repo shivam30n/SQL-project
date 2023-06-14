@@ -2,9 +2,13 @@
 A Practise SQL project
 QUESTIONS;
 Ques1. List all artists for each record label sorted by artist name. 
+
 Ques2. Which record labels have no artists?
+
 Ques3. List the number of songs per artist in descending order
+
 Ques4. Which artist or artists have recorded the most number of songs?
+
 Ques5. Which artist or artists have recorded the least number of songs?
 Ques6. How many artists have recorded the least number of songs?
 Ques7. which artists have recorded songs longer than 5 minutes, and how many songs was that?
